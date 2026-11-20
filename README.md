@@ -46,7 +46,7 @@ The dataset was prepared using Power Query. Key activities included:
 
 The dashboard consists of four interactive pages:
 
-### 1. HR Executive Overview
+### 1. HR Overview
 Provides a high-level view of workforce performance through key performance indicators, including total employee records, employees who left, employees who stayed, and overall attrition rate.
 
 It also highlights attrition patterns across departments, age groups, and job roles.
