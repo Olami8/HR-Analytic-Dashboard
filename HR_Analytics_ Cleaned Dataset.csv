@@ -1,0 +1,101 @@
+EmpID,Age,AgeGroup,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome(KM),Education,EducationField,EmployeeNumber,EnvironmentSatisfaction,Gender,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,SalarySlab,HourlyRate,NumCompaniesWorked,OverTime,SalaryHike %,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalExperience(Years),TrainingsLastYear,WorkLifeBalance,YearsatCompany,YearsinCurrentRole,YearsSincePromotion,YearsWithCurrManager
+VK2970,19,18-25,Yes,Travel_Rarely,230,Administration,3,3,Life Sciences,405,3,Male,3,1,Laboratory Technician,3,Single,16795,0-3 LPA,104.97,1,No,13,3,3,0,0,2,3,0,0,0,0
+VK3020,19,18-25,No,Travel_Rarely,812,Sales,10,3,Medical,411,4,Female,2,1,Sales Representative,3,Single,1860,0-3 LPA,11.62,1,No,12,3,1,0,0,2,3,0,0,0,0
+VK4580,19,18-25,Yes,Travel_Frequently,1306,Sales,5,3,Marketing,614,2,Male,3,1,Sales Representative,2,Single,77820,6-10 LPA,486.38,1,Yes,14,3,4,0,0,3,3,0,0,0,0
+VK7280,19,18-25,No,Non-Travel,287,Administration,5,2,Life Sciences,1012,2,Male,3,1,Research Scientist,4,Single,55886,6-10 LPA,349.29,1,No,15,3,4,0,0,2,3,0,0,0,0
+VK8290,19,18-25,Yes,Non-Travel,247,Administration,8,1,Medical,1156,3,Male,3,1,Laboratory Technician,3,Single,7265,0-3 LPA,45.41,1,No,12,3,4,0,0,0,3,0,0,0,0
+VK9730,19,18-25,No,Non-Travel,1124,Administration,1,3,Life Sciences,1368,4,Female,3,1,Laboratory Technician,4,Single,83386,10+ LPA,521.16,1,No,15,3,3,0,0,5,4,0,0,0,0
+VK11540,19,18-25,Yes,Travel_Frequently,544,Sales,3,2,Medical,1624,2,Female,3,1,Sales Representative,4,Single,38194,3-6 LPA,238.71,1,Yes,12,3,3,0,0,2,4,0,0,0,0
+VK13120,19,18-25,No,Non-Travel,1431,Administration,14,3,Medical,1839,2,Female,3,1,Research Scientist,3,Single,88498,10+ LPA,553.11,1,No,16,3,3,0,0,4,1,0,0,0,0
+VK1280,19,18-25,Yes,Travel_Rarely,528,Sales,22,1,Marketing,167,4,Male,3,1,Sales Representative,3,Single,45131,3-6 LPA,282.07,1,Yes,19,3,4,0,0,2,2,0,0,0,0
+VK1500,19,18-25,No,Travel_Rarely,1181,Administration,3,1,Medical,201,2,Female,3,1,Laboratory Technician,2,Single,61263,6-10 LPA,382.89,1,No,14,3,4,0,1,3,3,1,0,0,0
+VK1720,19,18-25,Yes,Travel_Frequently,602,Sales,1,1,Technical Degree,235,3,Female,1,1,Sales Representative,1,Single,17023,0-3 LPA,106.39,0,No,21,4,1,0,1,5,4,0,0,0,0
+VK1780,19,18-25,Yes,Travel_Rarely,303,Administration,2,3,Life Sciences,243,2,Male,2,1,Laboratory Technician,4,Single,42090,3-6 LPA,263.06,1,No,22,4,3,0,1,3,2,1,0,1,0
+VK4230,19,18-25,Yes,Travel_Rarely,489,Human Resources,2,2,Technical Degree,566,1,Male,2,1,Human Resources,4,Single,68221,6-10 LPA,426.38,1,No,12,3,3,0,1,3,4,1,0,0,0
+VK6890,19,18-25,Yes,Travel_Rarely,419,Sales,21,3,Other,959,4,Male,2,1,Sales Representative,2,Single,65820,6-10 LPA,411.38,1,Yes,13,3,2,0,1,3,4,1,0,0,0
+VK8540,19,18-25,No,Travel_Rarely,645,Administration,9,2,Life Sciences,1193,3,Male,3,1,Research Scientist,1,Single,1769,0-3 LPA,11.06,1,No,25,4,3,0,1,4,3,1,1,0,0
+VK8930,19,18-25,Yes,Non-Travel,504,Administration,10,3,Medical,1248,1,Female,2,1,Research Scientist,2,Single,60735,6-10 LPA,379.59,1,Yes,25,4,2,0,1,2,4,1,1,0,0
+VK9100,19,18-25,No,Travel_Rarely,265,Administration,25,3,Life Sciences,1269,2,Female,4,1,Research Scientist,4,Single,63955,6-10 LPA,399.72,1,Yes,12,3,4,0,1,2,3,1,0,0,1
+VK1030,21,18-25,Yes,Travel_Frequently,871,Administration,6,3,Life Sciences,137,4,Female,2,1,Laboratory Technician,4,Single,65925,6-10 LPA,412.03,1,Yes,18,3,2,0,1,5,3,1,0,1,0
+VK4880,21,18-25,No,Travel_Rarely,959,Administration,1,3,Life Sciences,657,4,Female,2,1,Research Scientist,2,Single,68969,6-10 LPA,431.06,1,No,13,3,4,0,1,0,4,1,0,0,0
+VK5140,21,18-25,Yes,Travel_Rarely,1362,Administration,10,1,Medical,701,4,Male,3,1,Research Scientist,3,Single,6311,0-3 LPA,39.44,1,Yes,11,3,4,0,1,5,3,1,0,1,1
+VK6630,21,18-25,Yes,Travel_Rarely,500,Sales,2,3,Medical,922,3,Female,2,1,Sales Representative,3,Single,84104,10+ LPA,525.65,1,No,13,3,4,0,2,3,2,2,2,0,2
+VK6900,21,18-25,Yes,Travel_Rarely,129,Administration,4,3,Technical Degree,960,1,Male,3,1,Laboratory Technician,1,Single,54707,6-10 LPA,341.92,1,No,19,3,2,0,1,2,3,1,0,0,0
+VK7320,21,18-25,Yes,Travel_Rarely,1097,Administration,11,3,Medical,1016,4,Female,2,1,Research Scientist,1,Single,86305,10+ LPA,539.41,1,Yes,15,3,1,0,1,2,3,1,0,0,0
+VK7770,21,18-25,Yes,Travel_Frequently,769,Sales,9,3,Marketing,1077,4,Female,3,1,Sales Representative,4,Single,29693,3-6 LPA,185.58,1,Yes,14,3,2,0,2,3,3,2,2,0,2
+VK8570,21,18-25,No,Travel_Rarely,805,Administration,3,3,Life Sciences,1198,1,Male,2,1,Laboratory Technician,3,Single,72932,6-10 LPA,455.82,1,No,12,3,1,0,2,2,2,2,2,1,2
+VK8770,21,18-25,No,Travel_Rarely,654,Sales,21,3,Marketing,1226,3,Male,4,1,Sales Representative,4,Single,94016,10+ LPA,587.6,1,No,17,3,4,0,2,2,3,2,1,2,2
+VK11790,21,18-25,No,Travel_Rarely,1141,Sales,2,3,Medical,1657,3,Female,3,1,Sales Representative,3,Single,26658,3-6 LPA,166.61,1,No,19,3,1,0,2,3,3,2,2,2,2
+VK11980,21,18-25,No,Travel_Rarely,727,Sales,9,1,Life Sciences,1680,4,Male,3,1,Sales Representative,1,Single,85478,10+ LPA,534.24,1,No,11,3,1,0,2,3,3,2,2,0,2
+VK0240,21,18-25,No,Travel_Rarely,391,Administration,15,2,Life Sciences,30,3,Male,3,1,Research Scientist,4,Single,19431,0-3 LPA,121.44,1,No,14,3,4,0,0,6,3,0,0,0,null
+VK2750,22,18-25,No,Travel_Rarely,996,Administration,3,2,Medical,379,4,Male,2,1,Research Scientist,3,Single,3747,0-3 LPA,23.42,1,No,17,3,1,0,3,4,4,3,2,1,0
+VK3580,22,18-25,Yes,Travel_Frequently,756,Sales,1,1,Technical Degree,478,1,Female,2,1,Sales Representative,2,Single,60150,6-10 LPA,375.94,1,Yes,11,3,3,0,3,3,3,3,2,1,2
+VK3630,22,18-25,No,Non-Travel,895,Sales,9,2,Medical,484,1,Male,3,1,Sales Representative,4,Single,66725,6-10 LPA,417.03,1,No,24,4,3,0,3,3,2,3,2,2,null
+VK3710,22,18-25,Yes,Travel_Rarely,156,Sales,12,3,Life Sciences,494,3,Female,4,1,Sales Representative,2,Single,85654,10+ LPA,535.34,1,No,15,3,4,0,1,0,3,1,0,0,0
+VK4970,22,18-25,No,Travel_Rarely,1343,Sales,22,1,Technical Degree,669,3,Male,3,1,Sales Representative,3,Single,36773,3-6 LPA,229.83,1,No,11,3,3,0,3,2,3,3,2,1,2
+VK6640,22,18-25,Yes,Travel_Rarely,1427,Administration,18,1,Other,923,4,Female,3,1,Research Scientist,4,Single,68435,6-10 LPA,427.72,1,No,19,3,1,0,1,3,2,1,0,0,0
+VK7780,22,18-25,Yes,Travel_Rarely,1334,Administration,10,3,Life Sciences,1079,3,Female,2,1,Laboratory Technician,1,Single,57886,6-10 LPA,361.79,1,No,13,3,1,0,1,6,2,1,0,1,0
+VK8160,22,18-25,No,Travel_Rarely,984,Administration,1,1,Technical Degree,1131,4,Female,2,1,Research Scientist,2,Single,67803,6-10 LPA,423.77,1,Yes,11,3,3,0,2,6,4,2,2,2,2
+VK9160,22,18-25,Yes,Travel_Frequently,251,Administration,10,2,Life Sciences,1279,1,Female,2,1,Laboratory Technician,3,Single,32551,3-6 LPA,203.44,1,No,20,4,3,0,2,2,1,2,2,2,2
+VK11530,22,18-25,No,Travel_Rarely,546,Administration,5,1,Medical,1623,3,Male,3,1,Research Scientist,4,Single,12394,0-3 LPA,77.46,1,No,18,3,3,0,3,2,3,2,2,2,2
+VK12720,22,18-25,Yes,Travel_Rarely,337,Sales,7,1,Marketing,1780,2,Male,3,1,Sales Representative,2,Single,70092,6-10 LPA,438.08,1,No,13,3,2,0,1,3,3,1,0,1,0
+VK14370,22,18-25,No,Travel_Rarely,501,Sales,5,1,Medical,2021,3,Male,3,1,Sales Representative,1,Single,4890,0-3 LPA,30.56,1,Yes,11,3,4,0,2,6,3,2,2,1,2
+VK0180,22,18-25,No,Non-Travel,1123,Administration,16,2,Medical,22,4,Male,4,1,Laboratory Technician,4,Single,42606,3-6 LPA,266.29,1,Yes,13,3,2,2,1,2,2,1,0,0,0
+VK1100,22,18-25,No,Travel_Rarely,534,Administration,15,3,Medical,144,2,Female,3,1,Laboratory Technician,4,Single,97276,10+ LPA,607.98,1,No,15,3,3,0,1,5,3,0,0,0,0
+VK1290,22,18-25,No,Travel_Rarely,594,Administration,2,1,Technical Degree,169,3,Male,3,1,Laboratory Technician,4,Married,81038,6-10 LPA,506.49,0,No,14,3,3,1,3,2,3,2,1,2,1
+VK1610,22,18-25,No,Travel_Rarely,1256,Administration,19,1,Medical,217,3,Male,3,1,Research Scientist,4,Married,88313,10+ LPA,551.96,1,No,24,4,1,2,2,6,3,2,2,2,2
+VK2070,22,18-25,No,Travel_Rarely,1136,Administration,5,3,Life Sciences,284,4,Male,4,1,Research Scientist,2,Single,11627,0-3 LPA,72.67,1,Yes,16,3,1,1,4,2,2,4,2,2,null
+VK3840,22,18-25,No,Travel_Rarely,253,Administration,11,3,Medical,511,1,Female,3,1,Research Scientist,2,Married,9792,0-3 LPA,61.2,1,No,13,3,4,1,2,1,3,2,1,1,2
+VK4440,22,18-25,Yes,Travel_Frequently,1368,Administration,4,1,Technical Degree,593,3,Male,2,1,Laboratory Technician,3,Single,74969,6-10 LPA,468.56,5,No,16,3,3,0,4,3,3,2,2,1,2
+VK4990,22,18-25,No,Travel_Rarely,604,Administration,6,1,Medical,675,1,Male,3,1,Research Scientist,3,Married,44001,3-6 LPA,275.01,0,No,20,4,4,0,3,3,3,2,2,2,2
+VK6310,22,18-25,No,Travel_Rarely,1230,Administration,1,2,Life Sciences,872,4,Male,2,2,Manufacturing Director,4,Married,77552,6-10 LPA,484.7,6,No,22,4,1,2,4,2,1,2,2,2,2
+VK6670,22,18-25,Yes,Travel_Rarely,617,Administration,3,1,Life Sciences,926,2,Female,3,2,Manufacturing Director,3,Married,24897,0-3 LPA,155.61,0,Yes,19,3,1,1,4,3,4,3,2,0,2
+VK7350,22,18-25,No,Travel_Rarely,217,Administration,8,1,Life Sciences,1019,2,Male,1,1,Laboratory Technician,1,Married,69148,6-10 LPA,432.18,1,No,15,3,1,1,4,3,2,4,3,1,1
+VK8610,22,18-25,Yes,Travel_Frequently,1256,Administration,3,4,Life Sciences,1203,3,Male,2,1,Research Scientist,4,Married,24483,0-3 LPA,153.02,0,Yes,11,3,2,1,1,5,3,0,0,0,0
+VK11380,22,18-25,No,Non-Travel,457,Administration,26,2,Other,1605,2,Female,2,1,Research Scientist,3,Married,49555,3-6 LPA,309.72,1,Yes,14,3,2,0,4,2,2,4,2,1,3
+VK12740,22,18-25,Yes,Travel_Rarely,1294,Administration,8,1,Medical,1783,3,Female,3,1,Laboratory Technician,1,Married,18159,0-3 LPA,113.49,1,Yes,17,3,3,0,1,6,3,1,0,0,0
+VK13400,22,18-25,Yes,Travel_Rarely,391,Administration,7,1,Life Sciences,1878,4,Male,3,1,Research Scientist,2,Single,81077,6-10 LPA,506.73,1,Yes,23,4,1,0,1,2,3,1,0,0,0
+VK14240,22,18-25,No,Travel_Rarely,581,Administration,1,2,Life Sciences,2007,4,Male,3,1,Research Scientist,3,Single,36920,3-6 LPA,230.75,0,No,12,3,4,0,4,2,4,3,2,1,2
+VK0870,23,18-25,No,Travel_Rarely,541,Sales,2,1,Technical Degree,113,3,Male,3,1,Sales Representative,1,Single,93067,10+ LPA,581.67,3,No,13,3,3,1,3,3,3,0,0,0,0
+VK3460,23,18-25,No,Travel_Rarely,1309,Administration,26,1,Life Sciences,465,3,Male,3,1,Research Scientist,4,Single,68121,6-10 LPA,425.76,1,No,12,3,3,2,4,2,2,4,2,0,2
+VK5170,23,18-25,No,Travel_Rarely,885,Administration,4,3,Medical,705,1,Male,4,1,Research Scientist,1,Married,70479,6-10 LPA,440.49,2,No,16,3,1,1,5,3,4,3,2,0,2
+VK5510,23,18-25,No,Travel_Rarely,650,Administration,9,1,Medical,758,2,Male,3,1,Laboratory Technician,1,Married,90475,10+ LPA,565.47,1,No,14,3,4,1,5,2,4,4,3,0,2
+VK5660,23,18-25,No,Travel_Rarely,310,Administration,10,1,Medical,784,1,Male,4,1,Research Scientist,3,Single,20457,0-3 LPA,127.86,1,No,18,3,4,0,2,3,3,2,2,0,2
+VK5860,23,18-25,Yes,Travel_Rarely,1243,Administration,6,3,Life Sciences,811,3,Male,4,1,Laboratory Technician,1,Married,67557,6-10 LPA,422.23,1,Yes,21,4,3,2,1,2,3,0,0,0,0
+VK9110,23,18-25,No,Travel_Rarely,373,Administration,1,2,Life Sciences,1270,4,Male,3,1,Research Scientist,3,Married,78189,6-10 LPA,488.68,1,No,22,4,4,1,1,2,3,1,0,0,1
+VK10830,23,18-25,No,Travel_Rarely,507,Administration,20,1,Life Sciences,1533,1,Male,3,2,Laboratory Technician,3,Single,79953,6-10 LPA,499.71,0,No,14,3,2,0,5,2,3,4,3,1,2
+VK11280,23,18-25,No,Travel_Rarely,977,Administration,10,3,Technical Degree,1592,4,Male,4,1,Research Scientist,3,Married,53995,6-10 LPA,337.47,2,No,16,3,4,1,4,2,3,2,2,2,2
+VK12020,23,18-25,Yes,Travel_Rarely,1320,Administration,8,1,Medical,1684,4,Male,2,1,Laboratory Technician,3,Single,41757,3-6 LPA,260.98,1,Yes,11,3,1,0,5,2,3,5,4,1,2
+VK12140,23,18-25,Yes,Travel_Rarely,427,Sales,7,3,Life Sciences,1702,3,Male,3,1,Sales Representative,4,Single,10692,0-3 LPA,66.82,1,Yes,21,4,2,1,3,2,3,3,2,0,2
+VK12390,23,18-25,No,Travel_Rarely,160,Administration,4,1,Medical,1735,3,Female,3,1,Laboratory Technician,2,Single,46758,3-6 LPA,292.24,1,No,13,3,3,0,3,3,1,3,2,1,2
+VK14090,23,18-25,No,Travel_Rarely,571,Administration,12,2,Other,1982,4,Male,3,1,Laboratory Technician,4,Single,73409,6-10 LPA,458.81,1,No,13,3,3,0,5,6,4,5,2,1,4
+VK14390,23,18-25,Yes,Travel_Frequently,638,Sales,9,3,Marketing,2023,4,Male,3,1,Sales Representative,1,Married,72211,6-10 LPA,451.32,1,No,19,3,1,1,1,3,2,1,0,1,0
+VK0210,24,18-25,No,Non-Travel,673,Administration,11,2,Other,26,1,Female,4,2,Manufacturing Director,3,Single,66697,6-10 LPA,416.86,0,No,18,3,4,1,5,5,2,4,2,1,3
+VK0350,24,18-25,Yes,Travel_Rarely,813,Administration,1,3,Medical,45,2,Male,3,1,Research Scientist,4,Married,38065,3-6 LPA,237.91,2,Yes,16,3,1,1,6,2,2,2,0,2,0
+VK0970,24,18-25,No,Travel_Rarely,1353,Sales,3,2,Other,128,1,Female,3,2,Sales Executive,3,Married,93093,10+ LPA,581.83,0,No,21,4,1,1,4,2,2,3,2,0,2
+VK1140,24,18-25,No,Travel_Rarely,1127,Administration,18,1,Life Sciences,150,2,Male,3,1,Laboratory Technician,3,Married,33606,3-6 LPA,210.04,0,No,12,3,3,1,6,2,3,5,3,1,2
+VK3810,24,18-25,No,Travel_Rarely,1371,Sales,10,4,Marketing,507,4,Female,3,2,Sales Executive,3,Single,12534,0-3 LPA,78.34,1,Yes,12,3,4,1,5,2,4,5,2,0,3
+VK4150,24,18-25,Yes,Travel_Rarely,1448,Sales,1,1,Technical Degree,554,1,Female,3,1,Sales Representative,2,Single,95663,10+ LPA,597.89,1,Yes,16,3,2,0,6,4,3,5,3,1,4
+VK14390,23,18-25,Yes,Travel_Frequently,638,Sales,9,3,Marketing,2023,4,Male,3,1,Sales Representative,1,Married,72211,6-10 LPA,451.32,1,No,19,3,1,1,1,3,2,1,0,1,1
+VK4750,24,18-25,No,Travel_Rarely,691,Administration,23,3,Medical,639,2,Male,4,1,Research Scientist,4,Married,92387,10+ LPA,577.42,1,Yes,11,3,2,2,6,3,3,6,5,1,4
+VK4770,24,18-25,No,Travel_Rarely,823,Administration,17,2,Other,643,4,Male,2,1,Laboratory Technician,2,Married,2016,0-3 LPA,12.6,1,No,21,4,4,1,1,2,3,1,0,0,0
+VK4800,24,18-25,Yes,Travel_Frequently,1287,Administration,7,3,Life Sciences,647,1,Female,3,1,Laboratory Technician,3,Married,90789,10+ LPA,567.43,1,Yes,16,3,4,1,6,4,3,6,3,1,2
+VK5260,24,18-25,Yes,Travel_Rarely,693,Sales,3,2,Life Sciences,720,1,Female,3,2,Sales Executive,3,Single,56591,6-10 LPA,353.69,9,No,14,3,1,0,4,3,3,2,2,2,0
+VK5870,24,18-25,No,Non-Travel,1092,Administration,9,3,Life Sciences,812,3,Male,2,1,Laboratory Technician,2,Single,90812,10+ LPA,567.58,1,No,11,3,3,3,1,4,3,1,0,0,0
+VK6410,24,18-25,No,Non-Travel,1269,Administration,4,1,Life Sciences,888,1,Male,2,1,Laboratory Technician,4,Married,24247,0-3 LPA,151.54,0,No,17,3,4,0,6,2,2,5,2,3,4
+VK7250,24,18-25,No,Travel_Rarely,1206,Administration,17,1,Medical,1009,4,Female,2,2,Manufacturing Director,3,Single,25300,3-6 LPA,158.12,1,No,15,3,2,2,5,6,3,4,2,3,2
+VK8420,24,18-25,No,Travel_Rarely,477,Administration,24,3,Medical,1173,4,Male,3,1,Laboratory Technician,2,Single,75065,6-10 LPA,469.16,8,No,22,4,4,0,6,2,3,4,3,1,2
+VK8720,24,18-25,Yes,Travel_Rarely,984,Administration,17,2,Life Sciences,1219,4,Female,3,1,Laboratory Technician,2,Married,83798,10+ LPA,523.74,1,No,13,3,1,1,1,3,1,1,0,0,0
+VK10260,24,18-25,No,Travel_Rarely,1476,Sales,4,1,Medical,1445,4,Female,3,2,Sales Executive,3,Married,10268,0-3 LPA,64.18,1,Yes,12,3,3,2,5,3,3,5,4,0,3
+VK10610,24,18-25,Yes,Travel_Frequently,381,Administration,9,3,Medical,1494,2,Male,3,1,Laboratory Technician,1,Single,87807,10+ LPA,548.79,2,Yes,11,3,3,0,4,2,2,0,0,0,0
+VK10620,24,18-25,No,Non-Travel,830,Sales,13,2,Life Sciences,1495,4,Female,3,1,Sales Representative,2,Married,13185,0-3 LPA,82.41,1,No,13,3,3,1,1,2,3,1,0,0,0
+VK10980,24,18-25,No,Travel_Rarely,350,Administration,21,2,Technical Degree,1551,3,Male,2,1,Laboratory Technician,1,Single,64704,6-10 LPA,404.4,0,No,14,3,2,3,2,3,3,1,1,0,0
+VK11690,24,18-25,No,Travel_Frequently,567,Administration,2,1,Technical Degree,1646,1,Female,3,1,Research Scientist,4,Single,87779,10+ LPA,548.62,1,Yes,13,3,3,0,6,2,3,6,3,1,3
+VK12180,24,18-25,No,Travel_Rarely,581,Administration,9,3,Medical,1707,3,Male,4,1,Research Scientist,3,Married,40099,3-6 LPA,250.62,1,No,16,3,4,1,5,1,3,5,3,0,4
+VK12230,24,18-25,Yes,Travel_Rarely,240,Human Resources,22,1,Human Resources,1714,4,Male,1,1,Human Resources,3,Married,9571,0-3 LPA,59.82,1,No,11,3,3,1,1,2,3,1,0,0,0
+VK12310,24,18-25,No,Travel_Rarely,506,Administration,29,1,Medical,1725,2,Male,3,1,Laboratory Technician,1,Single,39044,3-6 LPA,244.02,1,No,13,3,2,3,6,2,4,6,2,1,2
+VK12460,24,18-25,No,Travel_Frequently,897,Human Resources,10,3,Medical,1746,1,Male,3,1,Human Resources,4,Married,52214,6-10 LPA,326.34,0,No,14,3,4,1,3,2,3,2,2,2,1
+VK14080,24,18-25,No,Travel_Rarely,771,Administration,1,2,Life Sciences,1981,2,Male,2,2,Healthcare Representative,3,Single,62228,6-10 LPA,388.92,1,No,12,3,2,0,4,2,2,4,3,1,2
+VK1080,25,18-25,Yes,Travel_Rarely,240,Sales,5,3,Marketing,142,3,Male,2,2,Sales Executive,3,Single,49984,3-6 LPA,312.4,1,Yes,11,3,4,0,6,1,3,6,4,0,3
+VK1090,25,18-25,No,Travel_Rarely,1280,Administration,7,1,Medical,143,4,Male,2,1,Research Scientist,4,Married,41774,3-6 LPA,261.09,1,No,11,3,3,2,2,2,3,2,2,2,1
+VK1390,25,18-25,No,Travel_Rarely,959,Sales,28,3,Life Sciences,183,1,Male,2,2,Sales Executive,3,Married,3568,0-3 LPA,22.3,2,No,18,3,4,0,6,3,3,2,2,2,null
